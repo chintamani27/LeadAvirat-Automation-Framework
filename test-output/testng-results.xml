@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-22T12:16:10 IST" name="Default suite" finished-at="2026-11-22T12:16:14 IST" duration-ms="3700">
+    <groups>
+    </groups>
+    <test started-at="2026-11-22T12:16:10 IST" name="Default test" finished-at="2026-11-22T12:16:14 IST" duration-ms="3700">
+      <class name="com.chintamani.leadavirat.tests.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.chintamani.leadavirat.tests.RegisterTest@3b0090a4]" started-at="2026-11-22T12:16:10 IST" name="setup" finished-at="2026-11-22T12:16:13 IST" duration-ms="2679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPhoneNumberAcceptsInput()[pri:0, instance:com.chintamani.leadavirat.tests.RegisterTest@3b0090a4]" started-at="2026-11-22T12:16:13 IST" name="verifyPhoneNumberAcceptsInput" finished-at="2026-11-22T12:16:13 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPhoneNumberAcceptsInput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.chintamani.leadavirat.tests.RegisterTest@3b0090a4]" started-at="2026-11-22T12:16:13 IST" name="tearDown" finished-at="2026-11-22T12:16:14 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.chintamani.leadavirat.tests.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
